@@ -1,12 +1,12 @@
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
+<h1 align="center">inzi-DDoS - DDoS Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
-<a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/MatrixTM/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
+<a href="#"><img alt="inzi-DDoS forks" src="https://img.shields.io/github/forks/Athexhacker/inzi-DDoS?style=for-the-badge"></a>
+<a href="#"><img alt="inzi-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/Athexhacker/inzi-DDoS/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="inzi-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/inzi-DDoS?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="inzi-DDoS License" src="https://img.shields.io/github/license/MatrixTM/inzi-DDoS?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/Athexhacker/inzi-DDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/Athexhacker/inzi-DDoS?color=purple&style=for-the-badge"></a>
   
 <p align="center">Please Don't Attack websites without the owner's consent.</p>
 
@@ -95,14 +95,11 @@ Our social's💻
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="64" height="64" alt="telegram" />
 </div>
 
- * [Matrix community Telegram channel](https://t.me/Matrix_Development)
- * [Matrix team Telegram Group](https://t.me/MatrixTMChat)
- * [GitHub](https://github.com/MatrixTM)
+ * [Matrix community Telegram channel](https://t.me/hacker_inzii)
+ * [Matrix team Telegram Group](https://t.me/athexhacker)
+ * [GitHub](https://github.com/Athexhacker)
 ### If u Like the project, leave a star on the repository!
 
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
 
 ### Getting Started
 
@@ -120,26 +117,24 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-## Documentation
 
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/Athexhacker/inzi-DDoS.git
+cd inzi-DDoS
 pip install -r requirements.txt
 ```
 
 **One-Line Installing on Fresh VPS**
 
 ```shell script
-apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/MatrixTM/MHDDoS.git && cd MH* && pip3 install -r requirements.txt
+apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pip make cmake automake autoconf m4 build-essential git && git clone https://github.com/Athexhacker/inzi-DDoS.git && cd inzi-DDOS* && pip3 install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
-[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
+[github issues]: https://github.com/Athexhacker/inzi-DDoS/issues 'enter'
 
 ---
 
